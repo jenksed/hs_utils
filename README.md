@@ -12,11 +12,14 @@
    * Retrieve detailed information for specific pages.
    * List all pages in your HubSpot account with pagination support.
    * Delete pages efficiently.
+
 * **Data Validation:**
    * Ensures data integrity by validating page slugs and other required fields.
    * Customizable validation rules can be added for your specific use cases.
+
 * **Batch Operations (Optional):**
    * Perform bulk updates and deletes for improved efficiency (when available in the HubSpot API).
+   
 * **Robust Error Handling:**
    * Includes thorough error handling and logging to identify and diagnose issues.
 
