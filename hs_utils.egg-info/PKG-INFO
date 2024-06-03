@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: hs_utils
+Version: 0.1.0
+Summary: A simple HubSpot API client
+Home-page: https://github.com/jenksed/hs_utils
+Author: Joshua Jenks
+Author-email: joshuadavidjenks@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+
+
+        This package provides utility functions to interact with HubSpot's APIs, 
+        including creating, updating, retrieving, and deleting resources. 
+        It is designed to simplify the integration of HubSpot services into Python applications.
+    
